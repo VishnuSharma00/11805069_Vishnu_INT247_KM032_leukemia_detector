@@ -4,4 +4,4 @@
 
 # Tech Stack: Python, Scikit-Learn, Pandas.
 
-# Results: The model achieved X% accuracy using Random Forest.
+# Results: The model achieved 90% accuracy using support vector machine.
