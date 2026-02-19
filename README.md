@@ -1,1 +1,7 @@
-# 11805069_Vishnu_INT247_KM032_leukemia_detector
+# Leukemia Detection using Machine Learning
+
+# Goal: To predict leukemia diagnosis based on patient clinical data.
+
+# Tech Stack: Python, Scikit-Learn, Pandas.
+
+# Results: The model achieved X% accuracy using Random Forest.
